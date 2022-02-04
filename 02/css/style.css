@@ -122,8 +122,11 @@ section{
     float: left;
 }
 .banner_text{
-    width: 240px;
-    height: 140px;
-    text-align: center;
+    width: 200px;
+    height: 100px;
     float: left;
+    padding: 20px;
+}
+.banner_text a{
+    text-align: right;
 }
